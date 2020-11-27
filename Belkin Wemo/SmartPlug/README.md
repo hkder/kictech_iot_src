@@ -1,0 +1,5 @@
+TESTED DEVICES
+
+- Belkin Wemo Switch
+
+PROTOCOLS: SSDP
